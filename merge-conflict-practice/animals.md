@@ -6,4 +6,4 @@
 4. Tiger
 5. Lion
 6. Elephant
-7. Monkey
+7. Kangaroo

@@ -5,5 +5,5 @@
 3. Fish
 4. Tiger
 5. Lion
-6. Elephant
+6. Monkey
 7. Kangaroo
